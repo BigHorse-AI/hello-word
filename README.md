@@ -1,2 +1,3 @@
 # hello-word
-first new repository
+
+Hi Humans!
